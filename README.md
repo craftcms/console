@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-This is a public repository to collect [bug reports](https://github.com/craftcms/console/issues), [feature requests](https://github.com/craftcms/console/discussions), and [feedback](https://github.com/craftcms/console/discussions) for [Craft Console](https://console.craftcms.com), and the [Plugin Store](https://plugins.craftcms.com).
+This is a public repository to collect [bug reports](https://github.com/craftcms/console/issues), [feature requests](https://github.com/craftcms/console/discussions), and [feedback](https://github.com/craftcms/console/discussions) for [Craft Console](https://console.craftcms.com), [API](https://docs.api.craftcms.com/), and the [Plugin Store](https://plugins.craftcms.com).
 
 It’s a place for you to connect with other members of our Craft community who use Craft Console and the Plugin Store. We hope that you:
 
